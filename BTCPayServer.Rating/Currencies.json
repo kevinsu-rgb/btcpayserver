@@ -56,13 +56,6 @@
       "crypto":false
    },
    {
-      "name":"Argentine Peso",
-      "code":"ARS",
-      "divisibility":0,
-      "symbol":null,
-      "crypto":false
-   },
-   {
       "name":"Armenian Dram",
       "code":"AMD",
       "divisibility":2,
@@ -289,6 +282,13 @@
    {
       "name":"Colombian Peso",
       "code":"COP",
+      "divisibility":0,
+      "symbol":null,
+      "crypto":false
+   },
+   {
+      "name":"Argentine Peso",
+      "code":"ARS",
       "divisibility":0,
       "symbol":null,
       "crypto":false
